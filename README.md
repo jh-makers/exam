@@ -40,7 +40,7 @@ push <br> pull <br><br><br> pull
 
 ## 5. 순서 없는 목록 <!-- + 또는 - 또는 *-->
 - 원격 저장소
-- push, pull
+  - push, pull
 - 협업하기
 
 ## 6. 텍스트 꾸미기
@@ -65,6 +65,10 @@ push <br> pull <br><br><br> pull
  
  ## 9. 이미지 넣기
  ![펭수이미지](pengsoo.png)
+ 
+ ## 10. 이미지에 링크 넣기
+ 
+ [![펭수이미지](./pengsoo.png)](http://www.multicampus.com)
 
 
 
